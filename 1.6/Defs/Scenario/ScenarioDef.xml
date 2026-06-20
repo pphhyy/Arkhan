@@ -65,6 +65,20 @@
         <li Class="ScenPart_StartingThing_Defined">
           <def>StartingThing_Defined</def>
           <stuff>Steel</stuff>
+          <thingDef>Apparel_ArkhanArmor</thingDef>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <stuff>Steel</stuff>
+          <thingDef>Apparel_ArkhanHelm</thingDef>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>pphhyy_BoneReapers_StaffofNagash</thingDef>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <stuff>Steel</stuff>
           <thingDef>pphhyy_BoneReapers_ThetesBow</thingDef>
         </li>
         <li Class="ScenPart_StartingAnimal">
